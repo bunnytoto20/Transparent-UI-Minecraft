@@ -1,0 +1,31 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "transparent_ui",
+    "modName": "Transparent UI",
+    "version": "1.0.0",
+    "description": "Transparent UI",
+    "author": "bunnytoto20, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "resourcepack-1.21.4",
+    "modElementsPackage": "net.mcreator.transparentui"
+  },
+  "mcreatorVersion": 202500113416
+}
